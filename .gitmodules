@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TransP"]
+	path = TransP
+	url = https://github.com/somenath24/transp
+	shallow = true
+	registered = true
